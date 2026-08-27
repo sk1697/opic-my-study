@@ -1,0 +1,7 @@
+paint_circle*.png
+install-gh.ps1
+site/
+.cache/
+__pycache__/
+.venv/
+*.pyc
