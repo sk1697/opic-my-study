@@ -1,0 +1,81 @@
+:root {
+  --opic-blue: #1f5fbf;
+  --opic-green: #0f766e;
+  --opic-ink: #172033;
+  --opic-soft: #f4f7fb;
+  --opic-line: #d7deea;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--opic-ink);
+}
+
+.level-grid,
+.script-grid,
+.drill-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.panel {
+  border: 1px solid var(--opic-line);
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fff;
+}
+
+.panel strong:first-child {
+  color: var(--opic-blue);
+}
+
+.tag {
+  display: inline-block;
+  margin: 0.1rem 0.2rem 0.1rem 0;
+  padding: 0.08rem 0.45rem;
+  border: 1px solid var(--opic-line);
+  border-radius: 999px;
+  color: var(--opic-green);
+  background: var(--opic-soft);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.sentence-map p {
+  border-left: 4px solid var(--opic-green);
+  padding: 0.55rem 0.8rem;
+  background: var(--opic-soft);
+}
+
+.timer-box {
+  border: 1px solid var(--opic-line);
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fff;
+  max-width: 440px;
+}
+
+.timer-display {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: var(--opic-blue);
+  margin: 0.5rem 0;
+}
+
+.timer-controls button {
+  margin: 0.25rem 0.25rem 0.25rem 0;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--opic-line);
+  border-radius: 6px;
+  background: var(--opic-blue);
+  color: #fff;
+  cursor: pointer;
+}
+
+.checklist label {
+  display: block;
+  margin: 0.35rem 0;
+}
