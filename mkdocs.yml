@@ -1,0 +1,39 @@
+site_name: OPIc IH Study
+site_description: OPIc IH learning site focused on connected speech and storytelling
+site_url: https://sk1697.github.io/opic-my-study/
+repo_url: https://github.com/sk1697/opic-my-study
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - assets/styles.css
+extra_javascript:
+  - assets/trainer.js
+nav:
+  - Home: index.md
+  - IH 기준: ih-standard.md
+  - IM2 vs IH: im2-vs-ih.md
+  - Framework: framework.md
+  - Description & Routine: description-routine.md
+  - Past Experience: past-experience.md
+  - Park: park.md
+  - Family: family.md
+  - Work: work.md
+  - Technology: technology.md
+  - Training Lab: training-lab.md
+  - Sources: sources.md
