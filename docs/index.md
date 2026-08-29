@@ -10,6 +10,8 @@
 4. 스크립트 없이 IH 답변 생성
 5. IH 안정화
 
+새로 추가한 **고빈도 주제별 3문제** 페이지에서는 Park, Family, Work, Technology뿐 아니라 Cafe, Travel, Home, Shopping, Media, Health까지 10개 주제를 3문제씩 훈련할 수 있습니다.
+
 ## 핵심 원칙
 
 <div class="level-grid">
@@ -42,3 +44,5 @@ What I remember most is...
 ```
 
 이 사이트의 모든 주제 페이지는 같은 원리를 반복합니다. 먼저 구조를 보고, IM2와 IH 차이를 비교한 뒤, 30초와 60초 훈련으로 넘어가세요.
+
+가장 먼저 넓게 돌릴 때는 [고빈도 주제별 3문제](frequent-topics.md)를 사용하세요. 한 주제에서 Description, Routine, Past Experience를 모두 말할 수 있으면 실제 시험에서 주제가 바뀌어도 답변이 무너지지 않습니다.
