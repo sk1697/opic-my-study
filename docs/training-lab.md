@@ -37,6 +37,16 @@
   </div>
 </div>
 
+## 고빈도 3문제 Drill
+
+[고빈도 주제별 3문제](frequent-topics.md)에서 주제 하나를 고른 뒤 아래 순서로 녹음하세요.
+
+1. Description 질문: 장소나 대상을 30초로 설명합니다.
+2. Routine 질문: 평소 행동을 30초로 말합니다.
+3. Past Experience 질문: 사건 하나를 골라 60초로 말합니다.
+
+오늘 답변이 짧게 끝났다면 새 표현을 외우기보다 **사건, 감정, 행동, 결과** 중 빠진 부분을 하나만 추가하세요.
+
 ## Self Check
 
 <div class="checklist">
